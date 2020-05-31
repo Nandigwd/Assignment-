@@ -1,4 +1,6 @@
 # Assignment-
+Technical Skills : NODE JS.
+
 Fetch document from given URL
 Analyse the document 
 Find occurrences count of word in document
