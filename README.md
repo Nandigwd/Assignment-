@@ -1,2 +1,10 @@
 # Assignment-
-Fetch document from URL  Analyse the document using asynchronous mechanism, fetched in step 1  Find occurrences count of word in document Collect details for top 10 words(order by word Occurances) from 
+Fetch document from given URL
+Analyse the document 
+Find occurrences count of word in document
+Collect details for top 10 words(order by word Occurances) from https://dictionary.yandex.net/api/v1/dicservice.json/lookup, and find  synonyms/means and  part Of Speech/pos.
+
+Output 
+Count of Occurrence in that Particular Document
+Synonyms
+Pos
