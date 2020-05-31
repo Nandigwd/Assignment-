@@ -7,7 +7,7 @@ require('dotenv').config();
 
 const app = express();
 
-app.use(express.json()); // client to server , for loop, head def
+app.use(express.json());
 
 
 app.get('/wordcount/',(req,res)=>{
